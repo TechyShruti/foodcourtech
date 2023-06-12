@@ -1,0 +1,70 @@
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  height: 56;
+  background-color: red;
+  line-height: 56px;
+  font-size: 18px;
+}
+
+li{
+  float: right;
+  border-right: 1px solid white;
+  padding-left: 0 28;
+  
+}
+
+a {
+  display: block;
+  color: white;
+  padding: 0 28;
+}
+
+a:hover{
+  background-color: black;
+}
+
+
+div.tex2 {
+
+  text-align: center;
+}
+
+body{
+  background-image: url(img-1.jpg);
+  background-repeat: no-repeat;
+  background-size: 90%;
+  background-position: center;
+  
+}
+
+.container{
+  backgrou
+}
+
+div.gallery {
+  margin: 10px;
+  float:left;
+  border: 1px solid blue;
+  width:250px;
+  position:relative;
+  top:470px;
+  left:62px;
+  
+}
+
+div.gallery:hover{
+  border: 1px solid red;
+
+}
+
+div.gallery img{
+  width:100%;
+  height: auto;
+}
+
+div.text{
+  padding:15px;
+  text-align: center;
+}

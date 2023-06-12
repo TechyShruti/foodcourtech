@@ -1,0 +1,53 @@
+ul {
+  margin: 0;
+  padding: 0%;
+  list-style: none;
+  height: 56px;
+  line-height: 56px;
+  background-color: black;
+  font-size: 15px;
+
+}
+
+li {
+    float: left;
+    border-right: 5px solid aliceblue;
+    
+    
+
+}
+
+a {
+  display: block;
+  padding: 0 28px;
+  color: fff;
+    
+}
+
+a:hover {
+  background-color: blue;
+}
+
+
+body {
+  background-image: url(img-1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90%;
+  
+  
+}
+
+.container {
+  background-color:red;
+  background-size: 100% height ;
+  border: 1px solid #c10007;
+  margin-top: 599px;
+
+  
+}
+
+div.tex{
+  padding:15px;
+  text-align: center;
+}
